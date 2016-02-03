@@ -1,0 +1,262 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+.logo{
+	margin-left: -150px;
+	width: 80px;
+	height: 80px;
+}
+nav ul{
+	list-style-type: none;
+	padding-top: 34px;
+	font-size: 15px;
+	margin-left: -60px;
+}
+nav li{
+	position: relative;
+	float: left;
+	color: #BEBEBE;
+	margin: 0;
+	padding: 0;
+}
+nav li:hover a{
+	background: #8CB13F;
+}
+nav a{
+	text-decoration: none;
+	padding: 15px 15px;	
+	color: #BEBEBE;
+}
+.planta{
+	height: 350px;
+	background: url("../img/semilla.jpg");
+	background-position: -60px;
+	background-repeat: no-repeat;
+}
+.fondo{
+	background:#F2F2F2;
+	background-size:cover;
+	height: 150px;
+}
+.row .lorem{
+	text-align: center;
+	color: #9F9F9F;
+	font-size: 13px;
+	margin-top: 60px;
+	margin-left:250px;
+	margin-right:250px;
+}
+.mision{
+	height: 300px;
+}
+.imge{
+	text-align: center;
+}
+.imge img{
+	width: 100px;
+	margin-top: 60px;
+}
+.imge a{
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	position: relative;
+	margin-left: -75px;
+	top: 20px;
+}
+.imge p{
+	text-align: center;
+	color: #9F9F9F;
+	margin-top: 20px;
+	font-size: 12px;
+	margin-right: 100px;
+	margin-left: 100px;
+}
+.metod{
+	height: 350px;
+}
+.metodo{
+	background:url('../img/metodo.JPG') no-repeat;
+	background-size: 100%;
+	width: 50%;
+	height: 350px;
+}
+.fondos{
+	background: url("../img/fondo.jpg");
+	height: 350px;
+	text-align: center;
+}
+.fontext{
+	margin-left:50px;
+	margin-top: 20px;
+	margin-right: 50px;
+	color: #DEEBDE;
+}
+.fondos img{
+	margin-top: 60px;
+}
+.fontext h4{
+	font-size: 20px;
+}
+.fontext p{
+ 	font-size: 14px;
+ 	margin-top: 20px;
+ 	font-weight: lighter;
+}
+.serv{
+	height: 110px;
+}
+.srv{
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: -40px;
+	font-weight: bold;
+}
+.sect{
+	height: 600px;
+}
+.center{
+	text-align: center;
+}
+.grup{
+	padding-left: 60px;
+	padding-right: 60px;
+}
+.grup img{
+	width: 90px;
+	margin-top: 60px;
+}
+.grup .titulo{
+	color: #7A8C61;
+	font-weight: bold;
+	font-size:16px;
+	margin-bottom: 20px;
+}
+.grup p{
+	text-align: center;
+	color: #9F9F9F;
+	font-size: 10px;
+}
+.mod{
+	width: 160px;
+	margin-left: 70px;
+}
+.mode{
+	width: 80px;
+	margin-left: 110px;
+}
+.modes{
+	width: 135px;
+	margin-left: 80px;
+}
+.proyectos{
+	background-color:#5F8039;
+	height: 800px;
+	text-align: center;
+}
+.proyecto img{
+	width: 500px;
+}
+.proyecto p{
+	margin-top: 50px;
+	color: #E5EEDD;
+	text-align: left;
+	margin-left: 75px;
+	font-weight: bold;
+}
+.nombre{
+	color: #E5EEDD;
+	margin-top: 200px;
+}
+.nombre p{
+	font-size: 12px;
+}
+.txt{
+	padding-left: 140px;
+	padding-right: 140px;
+}
+.equipo{
+	height: 450px;
+	text-align: center;
+}
+.equipo h2{
+	text-align: left;
+	margin-left: 100px;
+	margin-top: 40px;
+	color: #5F8039;
+	font-size: 16px;
+}
+.equip{
+	padding-left: 60px;
+	padding-right: 60px;
+}
+.equip .fot{
+	width: 230px;
+ 	border-radius: 100%;
+ 	margin-top: 30px;
+ 	margin-bottom: 15px;
+}
+.equip p{
+	font-size: 13px;
+	color: #B8B8B8;
+}
+.equip .red{
+	width: 20px;
+	margin-top:20px;
+}
+.blog{
+	background: url("../img/fondo2.jpg");
+	height: 450px;
+	text-align: left;
+}
+.blogt .fotblog{
+	width: 100%;
+}
+.blogt{
+	color: #6D6D6D;
+	font-size:12px;
+	margin: 0;
+	padding: 0 3%;
+}
+.slider{
+	position: relative;
+	top:220px;
+	left: 40px;
+}
+.slider2{
+	position: relative;
+	left: 1200px;
+	top:220px;
+}
+.siguenos {
+	padding: 5%;
+	background: #4D4D4D;
+	color:gray;
+}
+.cont-siguenos {
+	height: 200px;
+	border:1px gray solid;
+	padding: 2%;
+	position: relative;
+}
+.cont-siguenos img{
+	bottom: 5%;
+	left: 50%;
+	width: 15%;
+	height: auto;
+	position: absolute;
+}
+footer{
+	height: 100px;
+	padding: 5%;
+	font-size: 12px;
+}
+.lab h4{
+	color:#E6CE71;
+}
+.lab{
+	float: left;
+}
+.econo p{
+	text-align: right;
+}
